@@ -26,7 +26,7 @@
 > > * default.json
 > > * production.json
 
-* Make a **HTTP** request as follows.
+* ###### Make a **HTTP** request as follows.
 ```http
 GET /get-product-list HTTP/1.1
 Host: localhost:8312
